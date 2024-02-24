@@ -1,8 +1,8 @@
 <h2> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.</h2><br>
-<h3> Used ASL [American Sign Language] --> Goodbye, Hello, Help, Sorry, Thankyou.</h3>
+<h3> Used ASL [American Sign Language] --> Goodbye, Hello, Help, Sorry, Thankyou [Viewed in the notebook]}</h3>
 
 Steps: <br>
-  1- Collecting the images for the 5 sign languages:<br>
+  <pre>1- Collecting the images for the 5 sign languages:<br>
     - There is no Given Dataset for such a problem --> so we have to create own dataset.<br>
     - Using webcam to capture images of me doing the sign langauges.<br>
     - Extract the frames from the downloaded tutorial videos to increase the size of data and apply the variaty in the collceted images.<br>
