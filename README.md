@@ -6,7 +6,7 @@ Steps:
   1- Collecting the images for the 5 sign languages:
     - There is no Given Dataset for such a problem --> so we have to create own dataset.
     - Using webcam to capture images of me doing the sign langauges.
-    - Extract the frames from the downloaded tutorial videos to increase the size of data and apply the variaty in the collceted images.
+    - Extract the frames from the downloaded tutorial videos to increase the size of data and apply the variaty in the collceted images.\n
         link_1 : https://www.signingsavvy.com/   
         link_2 : https://www.signasl.org/
   
