@@ -4,11 +4,11 @@ Used ASL [American Sign Language] --> Goodbye, Hello, Help, Sorry, Thankyou.
 
 Steps: 
   1- Collecting the images for the 5 sign languages:
-    1 - There is no Given Dataset for such a problem --> so we have to create own dataset.
-    2 - Using webcam to capture images of me doing the sign langauges.
-    3- Extract the frames from the downloaded tutorial videos to increase the size of data and apply the variaty in the collceted images.
-      link_1 : https://www.signingsavvy.com/   
-      link_2 : https://www.signasl.org/
+    - There is no Given Dataset for such a problem --> so we have to create own dataset.
+    - Using webcam to capture images of me doing the sign langauges.
+    - Extract the frames from the downloaded tutorial videos to increase the size of data and apply the variaty in the collceted images.
+        link_1 : https://www.signingsavvy.com/   
+        link_2 : https://www.signasl.org/
   
   2- Extract the features from the images using mediapipe module:
     - It is an important step because we want the model to only focus on a specific place in the image not the whole image.
