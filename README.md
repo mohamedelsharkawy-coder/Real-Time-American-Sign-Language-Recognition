@@ -1,5 +1,7 @@
 It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.
+
 Used ASL [American Sign Language] --> Goodbye, Hello, Help, Sorry, Thankyou.
+
 Steps: 
   1- Collecting the images for the 5 sign languages:
     - There is no Given Dataset for such a problem --> so we have to create own dataset.
