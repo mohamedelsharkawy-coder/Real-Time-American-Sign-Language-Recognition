@@ -1,4 +1,5 @@
-<h2> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people. Used ASL [American Sign Languages] are Goodbye, Hello, Help, Sorry, Thankyou [Viewed in the notebook]<br>
+<h2> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.<br>
+<h3> Used ASL [American Sign Languages] are Goodbye, Hello, Help, Sorry, Thankyou [Viewed in the notebook</h3> <br>
 
 Steps: <br>
   <pre>1- Collecting the images for the 5 sign languages:<br>
