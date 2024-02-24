@@ -1,4 +1,4 @@
-It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.<br>
+<h3> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.</h3><br>
 Used ASL [American Sign Language] --> Goodbye, Hello, Help, Sorry, Thankyou.
 
 Steps: 
