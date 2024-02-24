@@ -1,7 +1,20 @@
-<h2> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.<br>
-<h3> Used ASL [American Sign Languages] are Goodbye, Hello, Help, Sorry, Thankyou </h3> <br>
-<p>Goodbye</p>
+<h1> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.</h1> <br>
+<h2> Used ASL [American Sign Languages] are Goodbye, Hello, Help, Sorry, Thankyou </h2> <br>
+
+<h3>Goodbye</h3>
 <img src='Goodbye.jpg'>
+
+<h3>Hello</h3>
+<img src='Hello.jpg'>
+
+<h3>Help</h3>
+<img src='Help.jpg'>
+
+<h3>Sorry</h3>
+<img src='Sorry.jpg'>
+
+<h3>Thankyou</h3>
+<img src='Thankyou.jpg'>
 
 Steps: <br>
   <pre>1- Collecting the images for the 5 sign languages:<br>
