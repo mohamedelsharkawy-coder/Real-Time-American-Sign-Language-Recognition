@@ -9,8 +9,8 @@ It is a sign language detection project, used to ease the communication between 
 **Goodbye**                         | **Hello**
 **![Help](Help.jpg "Help")**        | **![Sorry](Sorry.jpg "Sorry")**
 **Help**                            | **Sorry**
-**![Thank you](Thankyou.jpg "Thank you")**
-**Thank you**
+**![Thank you](Thankyou.jpg "Thank you")** | **![Balanced Dataset](Balanced_Dataset.jpg "Balanced Dataset")**
+**Thank you**                       | **Balanced Dataset**
 
 ## Steps
 1. **Collecting Images for the 5 Sign Languages:**
