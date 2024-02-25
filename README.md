@@ -4,29 +4,13 @@
 It is a sign language detection project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on detecting American Sign Language (ASL) gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
 
 ## ASL Signs
-<!-- Sign Images Grid -->
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <div>
-        <h4>Goodbye</h4>
-        <img src='Goodbye.jpg' alt='Goodbye'>
-    </div>
-    <div>
-        <h4>Hello</h4>
-        <img src='Hello.jpg' alt='Hello'>
-    </div>
-    <div>
-        <h4>Help</h4>
-        <img src='Help.jpg' alt='Help'>
-    </div>
-    <div>
-        <h4>Sorry</h4>
-        <img src='Sorry.jpg' alt='Sorry'>
-    </div>
-    <div>
-        <h4>Thank you</h4>
-        <img src='Thankyou.jpg' alt='Thank you'>
-    </div>
-</div>
+![Goodbye](Goodbye.jpg "Goodbye") | ![Hello](Hello.jpg "Hello")
+------------------------------------|---------------------------------
+**Goodbye**                         | **Hello**
+**![Help](Help.jpg "Help")**        | **![Sorry](Sorry.jpg "Sorry")**
+**Help**                            | **Sorry**
+**![Thank you](Thankyou.jpg "Thank you")**
+**Thank you**
 
 ## Steps
 1. **Collecting Images for the 5 Sign Languages:**
