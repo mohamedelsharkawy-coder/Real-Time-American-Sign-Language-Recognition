@@ -4,31 +4,39 @@
 It is a sign language detection project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on detecting American Sign Language (ASL) gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
 
 ## ASL Signs
-<h4>Goodbye</h4>
-<img src='Goodbye.jpg'>
-
-<h4>Hello</h4>
-<img src='Hello.jpg'>
-
-<h4>Help</h4>
-<img src='Help.jpg'>
-
-<h4>Sorry</h4>
-<img src='Sorry.jpg'>
-
-<h4>Thank you</h4>
-<img src='Thankyou.jpg'>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <div>
+        <h4>Goodbye</h4>
+        <img src='Goodbye.jpg' alt='Goodbye'>
+    </div>
+    <div>
+        <h4>Hello</h4>
+        <img src='Hello.jpg' alt='Hello'>
+    </div>
+    <div>
+        <h4>Help</h4>
+        <img src='Help.jpg' alt='Help'>
+    </div>
+    <div>
+        <h4>Sorry</h4>
+        <img src='Sorry.jpg' alt='Sorry'>
+    </div>
+    <div>
+        <h4>Thank you</h4>
+        <img src='Thankyou.jpg' alt='Thank you'>
+    </div>
+</div>
 
 ## Steps
 1. **Collecting Images for the 5 Sign Languages:**
-   - Since there is no given dataset, we created our own dataset.
+   - Since there is no given dataset, Dataset created manually.
    - Used webcam to capture images of the sign languages.
    - Extracted frames from tutorial videos to increase the dataset size and add variety.
      - [Signing Savvy](https://www.signingsavvy.com/)
      - [Sign ASL](https://www.signasl.org/)
 
 2. **Extracting Features with Mediapipe:**
-   - We used the Mediapipe module to extract features from the images.
+   - Mediapipe module used to extract features from the images.
    - This step is crucial for focusing the model on specific hand gestures.
    - Hand landmarks were detected and used as features for training.
    - The resulting dataset: extracted features and labels -> stored in `data.pickle`.
