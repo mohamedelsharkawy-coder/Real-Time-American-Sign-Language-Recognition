@@ -4,9 +4,9 @@
 It is a sign language detection project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on detecting American Sign Language (ASL) gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
 
 ## ASL Signs
+**Goodbye**                         | **Hello**
 ![Goodbye](Goodbye.jpg "Goodbye") | ![Hello](Hello.jpg "Hello")
 ------------------------------------|---------------------------------
-**Goodbye**                         | **Hello**
 **![Help](Help.jpg "Help")**        | **![Sorry](Sorry.jpg "Sorry")**
 **Help**                            | **Sorry**
 **![Thank you](Thankyou.jpg "Thank you")** | **![Balanced Dataset](Balanced_Data.jpg "Balanced Dataset")**
