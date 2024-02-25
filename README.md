@@ -1,6 +1,9 @@
-<h2> It is a sign language detection project, Used to ease the communication between the normal people and deaf-mute people.</h2> <br>
-<h3> Used ASL [American Sign Languages] are Goodbye, Hello, Help, Sorry, Thankyou </h3> <br>
+# Sign Language Detection Project
 
+## Description
+It is a sign language detection project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on detecting American Sign Language (ASL) gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
+
+## ASL Signs
 <h4>Goodbye</h4>
 <img src='Goodbye.jpg'>
 
@@ -13,35 +16,35 @@
 <h4>Sorry</h4>
 <img src='Sorry.jpg'>
 
-<h4>Thankyou</h4>
+<h4>Thank you</h4>
 <img src='Thankyou.jpg'>
 
-Steps: <br>
-  <pre>1- Collecting the images for the 5 sign languages:<br>
-    - There is no Given Dataset for such a problem --> so we have to create own dataset.<br>
-    - Using webcam to capture images of me doing the sign langauges.<br>
-    - Extract the frames from the downloaded tutorial videos to increase the size of data and apply the variaty in the collceted images.<br>
-        link_1 : https://www.signingsavvy.com/<br>
-        link_2 : https://www.signasl.org/<br>
-  
-  2- Extract the features from the images using mediapipe module:<br>
-    - It is an important step because we want the model to only focus on a specific place in the image not the whole image.<br>
-    - So, We detect the hand gestures using mediapipe and extract the landmarks from both hands then we can use them as a features to train our model.<br>
-    - After this step the dataset is : extracted features and labels --> data.pickle file.<br>
+## Steps
+1. **Collecting Images for the 5 Sign Languages:**
+   - Since there is no given dataset, we created our own dataset.
+   - Used webcam to capture images of the sign languages.
+   - Extracted frames from tutorial videos to increase the dataset size and add variety.
+     - [Signing Savvy](https://www.signingsavvy.com/)
+     - [Sign ASL](https://www.signasl.org/)
 
-  3- Split dataset:<br>
-    - Specify 80% of the dataset for the training process and the rest considered as a test data for the final evaluation step.<br>
-    - The balance in the dataset is preseved, So each class of the five has the same number of data.<br>
-    - We avoid the bias to specifc class --> Balanced Dataset.<br>
+2. **Extracting Features with Mediapipe:**
+   - We used the Mediapipe module to extract features from the images.
+   - This step is crucial for focusing the model on specific hand gestures.
+   - Hand landmarks were detected and used as features for training.
+   - The resulting dataset: extracted features and labels -> stored in `data.pickle`.
 
-  4- Train the model:<br>
-    - Random Forest used as algorithm for my model.<br>
-    - Then we train this model on the train data.<br>
-    - Finally, we saved the model for later usage --> model.pickle.<br>
+3. **Splitting Dataset:**
+   - 80% of the dataset was allocated for training, and the rest for testing.
+   - The dataset was balanced, ensuring each class had the same number of samples.
+   - This helped avoid bias towards specific classes.
 
-  5- Evaluation step:<br>
-    - Test data used to make this process.<br>
-    - Confusion Matrix and another metrics are calculated for this step.<br>
-    - 98.5% acheived as accuracy score for this task.<br>
+4. **Training the Model:**
+   - Random Forest algorithm was used for the model.
+   - Trained the model on the training data.
+   - Saved the trained model in `model.pickle` for later use.
 
-  
+5. **Evaluation:**
+   - Tested the model using the test data.
+   - Calculated metrics like Confusion Matrix.
+   - Achieved an accuracy score of 98.5% for this task.
+
