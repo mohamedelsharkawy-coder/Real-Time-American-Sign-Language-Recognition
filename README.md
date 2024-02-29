@@ -1,7 +1,7 @@
 # Sign Language Detection Project
 
 ## Demo
-![Watch Demo](Demo.gif)
+![Watch Demo](Demo.mp4)
 
 ## Description
 It is a sign language detection project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on detecting American Sign Language (ASL) gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
