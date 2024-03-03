@@ -1,4 +1,4 @@
-# Sign Language Detection Project
+# Sign Language Recognition Project
 Hello👋, I'm Mohamed Elsharkawy, a Data Science and AI enthusiast🥰. I recently completed a Sign Language Recognition project🧑‍💻, furthering my skills in computer vision. This project was a big step in my learning journey into AI, and I'm always seeking improvement through self-learning and making projects.⚒️
 
 Thank you for taking the time to see about my project.❤️
