@@ -56,5 +56,5 @@ It is a sign language recognition project, used to ease the communication betwee
 5. **Evaluation:**
    - Tested the model using the test data.
    - Calculated metrics like Confusion Matrix.
-   - Achieved an accuracy score of 98.5% for this task.
+   - Achieved an accuracy score of 98.8% for this task.
 
