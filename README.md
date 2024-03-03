@@ -1,4 +1,18 @@
 # Sign Language Detection Project
+Hello👋, I'm Mohamed Elsharkawy, a Data Science and AI enthusiast🥰. I recently completed a Sign Language Recognition project🧑‍💻, furthering my skills in computer vision. This project was a big step in my learning journey into AI, and I'm always seeking improvement through self-learning and making projects.⚒️
+
+Thank you for taking the time to see about my project.❤️
+
+## Used Technologies:
+
+- :snake: **Python**: Programming language used for the project.
+- :hourglass_flowing_sand: **Mediapipe**: Used for hand tracking and pose estimation.
+- :1234: **NumPy**: Library for numerical computations in Python.
+- :bar_chart: **Scikit-learn**: Machine learning library used for modeling.
+- :camera: **OpenCV**: Computer vision library for image processing.
+- :computer: **JupyterLab**: Interactive development environment for data science.
+- :cloud: **Google Colab**: Cloud-based platform for running Jupyter notebooks.
+- :pick: **Pickle**: Python module for object serialization.
 
 ## Demo
 ![Watch Demo](media/demo.gif)
