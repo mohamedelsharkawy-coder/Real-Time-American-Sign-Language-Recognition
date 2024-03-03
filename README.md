@@ -57,4 +57,9 @@ It is a sign language recognition project, used to ease the communication betwee
    - Tested the model using the test data.
    - Calculated metrics like Confusion Matrix.
    - Achieved an accuracy score of 98.8% for this task.
+  
+5. **Deployment:**
+   - Used Streamlit to deploy the project as a web app using only python.
+   - Put the project on streamlit community cloud
+   - Web App : [Real Time ASL Recognition](https://sign-language-recognition-with-hand-gestures.streamlit.app/)
 
