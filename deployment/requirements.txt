@@ -2,8 +2,8 @@ streamlit==1.29.0
 streamlit-option-menu==0.3.12
 streamlit-webrtc==0.47.1
 twilio==8.11.0
+av==11.0.0
+numpy==1.23.5
 mediapipe==0.10.9
 opencv-python-headless==4.5.3.56
 pickleshare==0.7.5
-numpy==1.23.5
-av==11.0.0
