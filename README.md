@@ -14,7 +14,7 @@ Thank you for taking the time to see about my project.❤️
 - :cloud: **Google Colab**: Cloud-based platform for running Jupyter notebooks.
 - :pick: **Pickle**: Python module for object serialization.
 - :chart_with_upwards_trend: **Streamlit**: Interactive web application framework for Python.
-- 
+
 ## Demo
 ![Watch Demo](media/demo.gif)
 
