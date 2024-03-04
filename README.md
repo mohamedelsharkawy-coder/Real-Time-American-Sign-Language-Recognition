@@ -61,6 +61,6 @@ It is a sign language recognition project, used to ease the communication betwee
   
 5. **Deployment:**
    - Used Streamlit to deploy the project as a web app using only python.
-   - Put the project on streamlit community cloud
+   - Host the project on Streamlit Community Cloud using [This Repository](https://github.com/mohamedelsharkawy-coder/Sign-Language-Recognition-with-Hand-Gestures-Streamlit/tree/master)
    - Web App : [Real Time ASL Recognition](https://sign-language-recognition-with-hand-gestures.streamlit.app/)
 
