@@ -63,4 +63,13 @@ It is a sign language recognition project, used to ease the communication betwee
    - Used Streamlit to deploy the project as a web app using only python.
    - Host the project on Streamlit Community Cloud using [This Repository](https://github.com/mohamedelsharkawy-coder/Sign-Language-Recognition-with-Hand-Gestures-Streamlit/tree/master)
    - Web App : [Real Time ASL Recognition](https://sign-language-recognition-with-hand-gestures.streamlit.app/)
+  
+## 📞 Contact Information
+
+Feel free to reach out if you have any questions, suggestions, or would like to collaborate!
+
+- **Email:** [mohamed.k.elsharkawy@gmail.com](mailto:mohamed.k.elsharkawy@gmail.com)
+- **Phone:** +20 100 462 2244
+- **LinkedIn:** [Mohamed Elsharkawy's LinkedIn Profile](https://www.linkedin.com/in/mohamed-elsharkawy-6184b41a7/)
+- **Kaggle:** [Mohamed Elsharkawy's Kaggle Profile](https://www.kaggle.com/mohamedelsharkawy89)
 
