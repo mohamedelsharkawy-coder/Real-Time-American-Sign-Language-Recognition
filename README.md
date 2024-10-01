@@ -19,7 +19,7 @@ Thank you for taking the time to see about my project.❤️
 ![Watch Demo](media/demo.gif)
 
 ## Description
-It is a sign language recognition project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on recognizing American Sign Language (ASL) hand gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
+It is a sign language recognition project, used to ease the communication between normal people and deaf-mute individuals. The project focuses on recognizing American Sign Language (ASL) using hand gestures for the following signs: Goodbye, Hello, Help, Sorry, Thank you.
 
 ## ASL Signs
 ![Goodbye](media/Goodbye.jpg "Goodbye") | ![Hello](media/Hello.jpg "Hello")
